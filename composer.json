@@ -16,7 +16,7 @@
     },
     "autoload": {
         "files": [
-            "/topthink/thinkphp/ThinkPHP.php"
+            "/ThinkPHP.php"
         ]
     },
     "minimum-stability": "dev",
