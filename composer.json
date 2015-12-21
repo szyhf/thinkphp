@@ -1,6 +1,6 @@
 {
     "name": "topthink/thinkphp",
-    "description": "the ThinkPHP Framework",
+    "description": "the ThinkPHP Framework - Fixed for DIServer",
     "type": "framework",
     "keywords": ["framework","thinkphp","ORM"],
     "homepage": "http://thinkphp.cn/",
